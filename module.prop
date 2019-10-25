@@ -1,0 +1,7 @@
+id=rmdebloat
+name=Realme Debloat
+version=v1
+versionCode=1
+author=acervenky
+description=Debloat module for Realme Devices
+minMagisk=1500
